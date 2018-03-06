@@ -1,0 +1,9 @@
+app mobilidade 
+
+O aplicativo pesquisa as empresas de transporte privado, e mostra
+ao usuario qual esta com o melhor preço para a sua corrida.
+
+para as regioes que possuir apenas uma empresa do ramo, o app passa a
+monitorar o preço e avisa o usuario quando o preço voltar ao normal.
+
+ 
